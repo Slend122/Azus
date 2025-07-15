@@ -23,7 +23,7 @@ export default function AboutPage() {
             >
               <h3 className="text-lg font-bold mb-4 text-rose-400">О проекте</h3>
               <p className="text-sm leading-relaxed mb-4" style={{ color: 'var(--text-primary)' }}>
-                Этот сайт создан как попытка выразить философию Азуса — структуру, объединяющую онтологию, науку, сознание и смысл.
+                Этот сайт создан как попытка выразить философию Азуса — структуру призванную обьеденить онтологию, науку, сознание и смысл.
               </p>
             </div>
           </div>
@@ -39,7 +39,7 @@ export default function AboutPage() {
             >
               <h2 className="text-2xl font-bold mb-6 text-rose-400">Метод понимания</h2>
               <p className="text-lg leading-relaxed mb-6" style={{ color: 'var(--text-primary)' }}>
-                Философия Азуса — это не система догм, но метод понимания фундаментальных вопросов бытия через призму различия и единства.
+                Философия Азуса — это не система догм, но метод понимания фундаментальных вопросов бытия через призму различия и сходства.
               </p>
               
               <div className="space-y-6">
