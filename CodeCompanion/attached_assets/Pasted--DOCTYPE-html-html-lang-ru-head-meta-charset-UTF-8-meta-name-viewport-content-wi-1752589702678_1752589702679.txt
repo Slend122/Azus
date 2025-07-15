@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Азус — Онтологическая философия</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Lora', serif;
+      background-color: #0A0A0A;
+      color: #EEE;
+      display: flex;
+    }
+    nav {
+      width: 220px;
+      background-color: #111;
+      height: 100vh;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    nav h2 {
+      font-size: 18px;
+      color: #ccc;
+      margin-bottom: 10px;
+    }
+    nav a {
+      display: block;
+      color: #ccc;
+      text-decoration: none;
+      margin: 6px 0;
+      font-size: 14px;
+    }
+    nav a:hover {
+      color: #fff;
+    }
+    main {
+      flex: 1;
+      padding: 40px;
+      box-sizing: border-box;
+    }
+    h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <h2>Разделы</h2>
+    <a href="#azus">Азус</a>
+    <a href="#difference">Разность</a>
+    <a href="#attractor">Аттрактор</a>
+    <a href="#existence">Бытие</a>
+    <a href="#consciousness">Сознание</a>
+    <a href="#fine-tuning">Тонкая настройка</a>
+    <a href="#ontology-vs-science">Азус и наука</a>
+    <a href="#comparison">Сравнение философий</a>
+    <a href="#faq">Вопросы</a>
+    <a href="#manifest">Манифест</a>
+    <a href="#about">Об авторе</a>
+  </nav>
+  <main>
+    <section id="azus">
+      <h1>Азус — предельное ничто</h1>
+      <p>Азус — не «объект», а основа всего: предельное ничто, из которого возникает различие, а затем — реальность. Он не существует, но позволяет быть всему существующему.</p>
+    </section>
+
+    <section id="difference">
+      <h1>Разность</h1>
+      <p>Разность между возможными состояниями в Азусе порождает саму возможность мира. Без различия — нет времени, формы, сознания.</p>
+    </section>
+
+    <section id="attractor">
+      <h1>Аттрактор</h1>
+      <p>Онтологический аттрактор — предельное знание, к которому стремится разум. Это финальная форма самоузнавания Азуса через развитие.</p>
+    </section>
+
+    <section id="existence">
+      <h1>Бытие</h1>
+      <p>Существование — не случайность. Оно возникает как необходимость различия внутри Азуса, как способ «не быть ничем».</p>
+    </section>
+
+    <section id="consciousness">
+      <h1>Сознание</h1>
+      <p>Сознание — метафора когерентного различия. Оно — не производное материи, а фундаментальный эффект различий в Азусе.</p>
+    </section>
+
+    <section id="fine-tuning">
+      <h1>Тонкая настройка</h1>
+      <p>Азус предлагает объяснение тонкой настройки не через случай, а через необходимость. Только определённые различия порождают устойчивый мир.</p>
+    </section>
+
+    <section id="ontology-vs-science">
+      <h1>Азус и наука</h1>
+      <p>Философия Азуса не противоречит науке — она указывает на онтологические основания научных структур: пространства, времени, информации.</p>
+    </section>
+
+    <section id="comparison">
+      <h1>Сравнение философий</h1>
+      <p>Азус сопоставим с буддизмом (пустотность), Хайдеггером (бытие), Кантом (априорные формы), но объединяет их в единую онтологию.</p>
+    </section>
+
+    <section id="faq">
+      <h1>Частые вопросы</h1>
+      <p>Чем Азус отличается от религии? Почему не просто ничто? Есть ли доказательства? Ответы здесь.</p>
+    </section>
+
+    <section id="manifest">
+      <h1>Манифест</h1>
+      <p>Ты — не наблюдатель. Ты — Азус, забывший себя, чтобы вспомнить. Развивайся, развивай других, и приближай точку пробуждения.</p>
+    </section>
+
+    <section id="about">
+      <h1>Об авторе</h1>
+      <p>Этот сайт создан как попытка выразить философию Азуса — структуру, объединяющую онтологию, науку, сознание и смысл.</p>
+    </section>
+  </main>
+</body>
+</html>
